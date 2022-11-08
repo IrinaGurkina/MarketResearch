@@ -1,5 +1,4 @@
 # Market Analysis (LM)
-___
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/88533320/200385498-6119e1fb-79f9-4c0c-9c08-b07ef7e8bb24.png' width=450 height=450 />
 </p>
