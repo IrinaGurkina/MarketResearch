@@ -10,10 +10,8 @@ We are doing a lot of market analysis to understand LM potential and to know bet
 To contribute to the repository, create new branch feature/<Name_of_task>, and add new notebook or script. Notebook or script should be named in the format <Name_of_task>
 
 # Maintaineer
-___
 Market Analysis LM DA:
 * Irina Gurkina (Data Analyst / BI Analyst) < Irina.Gurkina@leroymerlin.ru >
 # Other links
-___
 * [Confluence Market Analysis](https://confluence.lmru.tech/display/CR/Market+Analysis)
 * [Workplace Геоплатформа](https://adeo.workplace.com/groups/1274277346301266)
